@@ -1,10 +1,6 @@
 #*-* coding: Utf-8 *-*
 """
-__Author__ L1~G2
-	RAZAFINTSALAMA Dylan Andrew
-	RAVELOHARISON  Fandresena
-	BAKARY Gaetan Jonathan
-	ANDRIATIANA Tsanta
+__Author__ 'Gaetan Jonathan'
 
 	************************** DEVOIR CHIFFREMENT AFFINE *****************************************
 
